@@ -2,7 +2,7 @@
   "name": "warehouse",
   "version": "1.0.0",
   "description": "store away data",
-  "main": "./server.js",
+  "main": "backend/server.js",
   "dependencies": {
     "axios": "^1.4.0",
     "bcrypt": "^5.1.0",
